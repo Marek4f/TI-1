@@ -14,5 +14,5 @@ TEST gita i wszystkiego innego
   <tr><td>C <td> D
 </table>
 
-> Test cytatow, nie wiem po co ale to zrobie
-> tak o wlasnie to wyglada :)
+> "Git jest git" <br>
+> WBzyl
