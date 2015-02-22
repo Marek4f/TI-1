@@ -9,13 +9,10 @@ TEST gita i wszystkiego innego
 | bbb | 22 | 2 |
 | ccc | 33 | 3 |
 
-<dl>
-  <dt>index</dt>
-  <dd>01</dd>
-  
-  <dt>Markdown in HTML</dt>
-  <dd>Does not work very well</dd>
-</dl>
+<table>
+  <tr><td>A <td> B
+  <tr><td>C <td> D
+</table>
 
 > Test cytatow, nie wiem po co ale to zrobie
 > tak o wlasnie to wyglada :)
