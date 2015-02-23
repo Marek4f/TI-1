@@ -34,9 +34,9 @@ http://github.com - automatic!
 ![Zdjęcie jakiegoś zwierzaka](http://static.mailchimp.com/web/brand-assets/Freddie_OG.png)
 
 ### Prosta tabelka 
-| Marzec |
-| - | - | - | - |
-| 1 | 2 | 3 | 4 |
+I Semestr | II Semestr 
+--------- | ----------
+ Zaliczony | Sie zobaczy
 
 
 
