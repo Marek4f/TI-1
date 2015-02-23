@@ -31,7 +31,7 @@ http://github.com - automatic!
 - [ ] funkcje...
 
 ### Może jakiś obrazek? Nie ma problemu!
-![Zdjęcie jakiegoś zwierzaka](http://www.google.pl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fwww.cracked.com%2Farticle_14990_what-monkeysphere.html&ei=zIXrVOn1BoXwUPTAgcgI&bvm=bv.86475890,d.d24&psig=AFQjCNGUtoSUPok28vfuYhjyjqBPmA8ZDA&ust=1424807572115261)
+![Zdjęcie jakiegoś zwierzaka](http://static.mailchimp.com/web/brand-assets/Freddie_OG.png)
 
 
 
