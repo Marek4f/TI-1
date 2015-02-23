@@ -2,7 +2,7 @@
 **Ten fragment tekstu będzie pogrubiony**
 *Natomiast ten fragment będzie napisany kursywą*
 
-W razie problemów z [Markdownem!] (https://guides.github.com/features/mastering-markdown/index.html) możecie kliknąć w ten link.
+W razie problemów z [Markdownem] (https://guides.github.com/features/mastering-markdown/index.html) możecie kliknąć w ten link. (coś nie zadziałało tak jak chciałem :P)
 
 ## To jest znacznik h2 pod którym zamieścimy nieponumerowaną listę
 * Punkt 1
@@ -15,4 +15,9 @@ W razie problemów z [Markdownem!] (https://guides.github.com/features/mastering
 2. Punkt 2
   * podpunkt a
   * podpunkt b
+
+- kopiuj wklej z tutka dla testu -
+http://github.com - automatic!
+[GitHub](http://github.com) 
+
 
