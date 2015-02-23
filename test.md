@@ -16,8 +16,22 @@ W razie problemów z [Markdownem] (https://guides.github.com/features/mastering-
   * podpunkt a
   * podpunkt b
 
-- kopiuj wklej z tutka dla testu -
+kopiuj wklej z tutka dla testu -
 http://github.com - automatic!
 [GitHub](http://github.com) 
+
+
+### Gdy chcemy coś zacytować używamy znaczników '>'
+> 'Never give up'
+
+### Spróbujmy zrobić listę zadań :)
+- [x] znaczniki h1, h2, h3
+- [x] linki, cytaty
+- [x] listy numerowane, nienumerowane
+- [ ] funkcje...
+
+
+
+
 
 
