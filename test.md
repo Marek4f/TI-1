@@ -33,6 +33,11 @@ http://github.com - automatic!
 ### Może jakiś obrazek? Nie ma problemu!
 ![Zdjęcie jakiegoś zwierzaka](http://static.mailchimp.com/web/brand-assets/Freddie_OG.png)
 
+### Prosta tabelka 
+| Marzec |
+| - | - | - | - |
+| 1 | 2 | 3 | 4 |
+
 
 
 
