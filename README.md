@@ -14,5 +14,8 @@ TEST gita i wszystkiego innego
   <tr><td>C <td> D
 </table>
 
-> "Git jest git" <br>
-> WBzyl
+Nie wiem jak zrobic znak nowej linii.  
+Uzylem dwoch spacji ale nie jestem pewny czy to dziala.
+
+Dwa entery powinny pomóc.
+
