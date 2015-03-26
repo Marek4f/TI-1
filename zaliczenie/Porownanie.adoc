@@ -4,18 +4,17 @@
 |===
 |Opcje |Markdown |AsciDoc
 
+| Nagłówki | h1: `#` ... h6: `######` | h1: `=` ... h6: `======`
+
 | *Bold* | `*tekst*` lub `_tekst_` | `*tekst*`
 
 | _Italic_ | `**tekst**` lub `__tekst__` | `_tekst_`
 
-| [quote] | znak `>`na początku linii | `[quote]`
+| Linki | `[link](http://link.pl)` | http://link.pl
+
+| Obrazki | `![obrazek](git.com/obrazek.jpg)` | `image:obrazek.jpg[tekst]`
 
 | Przejście do następnej Lini| Podwójna `spacja` | znak `+` oraz znak nowej linii
 
 |===
 
------
-main() {
-  return true;
-  }
------
