@@ -14,7 +14,5 @@
 
 | Obrazki | `![obrazek](git.com/obrazek.jpg)` | `image:obrazek.jpg[tekst]`
 
-| Przejście do następnej Lini| Podwójna `spacja` | znak `+` oraz znak nowej linii
-
 |===
 
