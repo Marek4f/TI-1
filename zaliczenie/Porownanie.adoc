@@ -10,7 +10,7 @@
 
 | _Italic_ | `**tekst**` lub `__tekst__` | `_tekst_`
 
-| Linki | `[link](http://link.pl)` | http://link.pl
+| Linki | `[link](http://link.pl)` | `http://link.pl[Link]`
 
 | Obrazki | `![obrazek](git.com/obrazek.jpg)` | `image:obrazek.jpg[tekst]`
 
